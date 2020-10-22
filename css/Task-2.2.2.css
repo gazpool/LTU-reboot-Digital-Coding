@@ -1,6 +1,49 @@
 img{max-width: 200px;
+    background-color: indianred;
+    position: fixed;
+    background-position: center;
+}
 
+h1{
+    color: yellow;
+    background-color: violet;
+    text-shadow: teal;
+    font-weight: 100;
+}
 
+h2{
+    color: orange;
+    background-color: turquoise;
+    text-shadow: black;
+font-size: large;
+}
 
+h3{
+    color: red;
+    background-color: blue;
+    text-shadow: pink;
+    font-style: italic;
+}
+
+p{
+    color: blueviolet;
+    background-color: chartreuse;
+    text-shadow: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+}
+
+ol{
+color: powderblue;
+background-color: grey;
+
+}
+
+ul{
+color: pink;
+background-color: grey;
+max-width: 200px;
+position: relative;
 
 }

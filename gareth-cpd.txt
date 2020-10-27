@@ -1,0 +1,43 @@
+Module 1, lesson 1 - 06/10/2020
+
+Module 1, lesson 2 - 09/10/2020
+
+Module 1, lesson 3 - 13/10/2020
+
+Today we listened to Alex explain Git (source control) and Github. Created Github profile
+Installed VS Code
+Installed extensions
+Demo on how to commit changes to files from text editor to the repo that we've cloned locally into git
+        
+Module 1, lesson 4 - 15/10/2020
+        
+cant remember, weren't asked to update
+        
+Module 2, lesson 1 - 20/10/2020
+        
+were told a few things about html
+        
+Module 2, starting lesson 2 - 22/10/2020
+        
+Intro to CSS
+made css style sheet and linked it into a html doc
+        
+        
+Module 2, finishing lesson 2, starting lesson 3 - 27/10/2020
+
+Caught up with what we should have done last time
+New teacher Luke
+Taught about class / IDs
+Shown Div classes
+Given some rescources such as m1mo, various websites for reference
+Ran through a few tasks such as creating text in different div classes 
+Went over css stuff for a tags such as hover and focus
+Few tricks such as "div#hello" to create a div tag with the #hello id
+        
+Overall a much more focused lesson and took a lot more in. Keeping up okay but sometimes takes a little while on the tasks but I think thats down to my setup of using a single monitor and trackpad.
+
+Also, gave up on creating new branches as its a bit of a faff to do everytime we do a small task, will reuse them once we get bigger tasks where it will actually be beneficial to.
+        
+Module 2, lesson 3 continued - 29/10/2020
+            
+

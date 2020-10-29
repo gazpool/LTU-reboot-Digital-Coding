@@ -1,0 +1,9 @@
+.relative{
+    position: relative;
+    left: 100px;
+    top: 25px;
+    height: 50px;
+    padding: 100px;
+    background-color: pink;
+    border: 10px solid purple;
+}

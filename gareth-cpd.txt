@@ -40,4 +40,10 @@ Also, gave up on creating new branches as its a bit of a faff to do everytime we
         
 Module 2, lesson 3 continued - 29/10/2020
             
-Module 2, lesson 4 - 29/10/20
+Module 2, lesson 4 - 3/11/20
+
+learnt about floats, z index, clears
+intro to css frameworks using bootstrap as an example
+
+extra task of replicating google home page
+

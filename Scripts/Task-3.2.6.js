@@ -1,4 +1,4 @@
-var temperature = 20;
+var temperature = 55;
 
 if (temperature < 0 ) {
 console.log('Stay inside');

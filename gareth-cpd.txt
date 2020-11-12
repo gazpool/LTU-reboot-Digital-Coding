@@ -50,3 +50,18 @@ extra task of replicating google home page
 
 /Users/garethpool_4/Pictures/screenshots/Screenshot 2020-11-03 at 21.01.30.png
 /Users/garethpool_4/Pictures/screenshots/Screenshot 2020-11-03 at 21.09.57.png
+
+Module 3, L1 - 5/11/20
+
+Intro to JS and coding in general
+Lots of transferable stuff from coding I already know but interesting to learn that JS and java are not the same
+
+Module 3, L2 10/11/20
+
+JS p2 - missed this lesson but caught up later
+
+Module 3, L3 12/11/20
+
+Caught up on the slides from the previous lesson. Managed to complete the practical task while people were joining the session
+Lesson was the first fully practical one which I found a lot more useful than the usual lecture type ones
+Did a few tasks producing js functions to do things such as calculate numerical functions or print drink orders

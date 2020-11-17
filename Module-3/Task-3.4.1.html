@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3.4.1-Loops</title>
+    <style>
+        header{font-weight:bold;}
+
+        div{float: left; margin: 10px; padding: 10px; border: 10px;}
+    </style>
+</head>
+<body>
+    
+
+    <script>
+            for(let i=1; i<=12; i++){
+                document.write('<div>'); //Open div tag
+                    document.write('<br>'+'<header>'+i+' Times table'+'<br>'+'<br>'+'</header>'); //Open div tag
+               for(let x = 1; x<=12; x++){
+                   document.write( x + ' x '+i +' = ' + x * i +'<br>');
+
+               }
+               document.write('</div>')
+            }
+
+    </script>
+
+
+    
+</body>
+</html>

@@ -1,21 +1,54 @@
 const listItems = document.querySelectorAll('button.selection');
 
-const allImages = document.querySelectorAll('.main .image-selections .images');
+const allimages = document.querySelectorAll('.main .image-selections .images');
 
-function toggleActiveClass(active){
-    
-listItems.forEach(function(item){
+
+function toggleActiveClass( active ) {
+
+  listItems.forEach( function( item ) {
     item.classList.remove('active');
+  })
 
-})
+  active.classList.add('active');
 
-active.classList.add('active');
 }
 
-listItems.forEach(function(item){
+function toggleimages( dataClass ) {
 
-    item.addEventListener('click',function(){
-       // toggleActiveClass(item);
-        console.log('you clicked me');
+  if( dataClass === 'all') {
+
+    allimages.forEach( function( image ) {
+
+      image.style.display ='block';
+
     })
+
+  } else {
+
+    allimages.forEach(  image => { 
+      image.dataset.class === dataClass ?
+       image.style.display = 'block' : 
+      image.style.display = 'none';
+    })
+      // if( image.dataset.class === dataClass ) {
+      //   image.style.display = 'block'
+      // } else {
+      //   image.style.display = 'none';
+      // }
+
+
+
+  }
+
+
+} // END OF TOGGLEIMAGES FUNCTION
+
+
+listItems.forEach( function( item ) {
+
+  item.addEventListener('click', function() {
+    toggleActiveClass( item );
+    toggleimages( item.dataset.class );
+  })
+
 })

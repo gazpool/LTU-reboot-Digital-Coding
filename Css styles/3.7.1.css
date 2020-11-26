@@ -1,0 +1,10 @@
+
+.main img{
+    width: 200px;
+}
+
+.active{
+    background-color: gray;
+    color: #ffffff;
+}
+
